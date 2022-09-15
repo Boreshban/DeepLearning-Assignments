@@ -1,5 +1,5 @@
 # DeepLearning-Assignments
-Deep Learning Assignments  - Sharif University of Technology
+Deep Learning Assignments  - Sharif University of Technology- Fall 2019
 
 This repo contains my Homework for this Course. 
 
