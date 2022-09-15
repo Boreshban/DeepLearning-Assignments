@@ -9,9 +9,9 @@ This repo contains my Homework for this Course.
 
 <b> Programming Assignment 2  : </b>
 
-  Part1: Convolutional Neural Network On CIFAR 10 Dataset  
+  Part1: Convolutional Neural Network On CIFAR-10 Dataset  
   
-  Part2: Transfer Learning from CIfar10 to CIfar100   
+  Part2: Transfer Learning from CIfar-10 to CIfar-100   
  
 - Train a network with three convolutional layers and two fully connected layers on CIFAR-10
 
